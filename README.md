@@ -18,7 +18,7 @@
     数据库：MySql
 
 # 软件截图
-![extending-a-theme](/00.png)
+![extending-a-theme](/00.jpg)
 ![extending-a-theme](/01.png)
 ![extending-a-theme](/02.png)
 ![extending-a-theme](/03.png)
